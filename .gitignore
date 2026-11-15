@@ -1,0 +1,10 @@
+# KiCad temporary files
+*.kicad_prl
+*.lck
+*-bak
+*_autosave-*
+# VS Code history
+.history/
+
+# LTspice generated files
+*.raw
